@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+
+}
+
+.nav-extended{
+    background-image: url("../img/netflix2.jpg");
+    background-size: cover;
+    background-blend-mode:soft-light;
+}
+
+
+.tab a.active{
+    border-bottom: solid 2px white;
+}
+
+.nav-header h1{
+    text-shadow: 2px 2px 8px black;
+}
